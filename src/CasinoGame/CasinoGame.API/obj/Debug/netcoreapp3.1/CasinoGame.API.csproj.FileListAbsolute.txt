@@ -40,7 +40,11 @@ C:\Users\Juan David\Documents\Masivian\CasinoGame\src\CasinoGame\CasinoGame.API\
 C:\Users\Juan David\Documents\Masivian\CasinoGame\src\CasinoGame\CasinoGame.API\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\Juan David\Documents\Masivian\CasinoGame\src\CasinoGame\CasinoGame.API\bin\Debug\netcoreapp3.1\CasinoGame.DataAccess.dll
 C:\Users\Juan David\Documents\Masivian\CasinoGame\src\CasinoGame\CasinoGame.API\bin\Debug\netcoreapp3.1\CasinoGame.DataAccess.pdb
-C:\Users\Juan David\Documents\Masivian\CasinoGame\src\CasinoGame\CasinoGame.API\obj\Debug\netcoreapp3.1\CasinoGame.API.csproj.CoreCompileInputs.cache
-C:\Users\Juan David\Documents\Masivian\CasinoGame\src\CasinoGame\CasinoGame.API\obj\Debug\netcoreapp3.1\CasinoGame.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Juan David\Documents\Masivian\CasinoGame\src\CasinoGame\CasinoGame.API\bin\Debug\netcoreapp3.1\CasinoGame.Core.dll
 C:\Users\Juan David\Documents\Masivian\CasinoGame\src\CasinoGame\CasinoGame.API\bin\Debug\netcoreapp3.1\CasinoGame.Core.pdb
+C:\Users\Juan David\Documents\Masivian\CasinoGame\src\CasinoGame\CasinoGame.API\bin\Debug\netcoreapp3.1\CasinoGame.Models.dll
+C:\Users\Juan David\Documents\Masivian\CasinoGame\src\CasinoGame\CasinoGame.API\bin\Debug\netcoreapp3.1\CasinoGame.Models.pdb
+C:\Users\Juan David\Documents\Masivian\CasinoGame\src\CasinoGame\CasinoGame.API\obj\Debug\netcoreapp3.1\CasinoGame.API.csproj.CoreCompileInputs.cache
+C:\Users\Juan David\Documents\Masivian\CasinoGame\src\CasinoGame\CasinoGame.API\obj\Debug\netcoreapp3.1\CasinoGame.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Juan David\Documents\Masivian\CasinoGame\src\CasinoGame\CasinoGame.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Juan David\Documents\Masivian\CasinoGame\src\CasinoGame\CasinoGame.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

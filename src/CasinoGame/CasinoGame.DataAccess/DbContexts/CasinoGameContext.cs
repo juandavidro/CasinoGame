@@ -15,5 +15,6 @@ namespace CasinoGame.DataAccess.DbContexts
 
         public DbSet<Roulette> Roulettes { get; set; }
         public DbSet<User> Users { get; set; }
+        public DbSet<Bet> Bets { get; set; }
     }
 }

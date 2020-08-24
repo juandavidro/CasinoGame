@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AutoMapper;
 using CasinoGame.Core.Services;
 using CasinoGame.DataAccess;
 using CasinoGame.DataAccess.DbContexts;
@@ -29,6 +30,7 @@ namespace CasinoGame.API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
             services.AddScoped<ICasinoGameRepository, CasinoGameRepository>();
             services.AddDbContext<CasinoGameContext>(options => 
             {
