@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using CasinoGame.API.CasinoGame.DataAccess.Entities;
 using CasinoGame.DataAccess;
 using CasinoGame.DataAccess.Entities;
 using CasinoGame.Models;

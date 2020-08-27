@@ -19,9 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CasinoGame.Core\CasinoGame.Core.csproj" />
-    <ProjectReference Include="..\CasinoGame.DataAccess\CasinoGame.DataAccess.csproj" />
-    <ProjectReference Include="..\CasinoGame.Models\CasinoGame.Models.csproj" />
+    <Folder Include="CasinoGame.Models\" />
   </ItemGroup>
 
 
