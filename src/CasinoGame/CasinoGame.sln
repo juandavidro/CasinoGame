@@ -4,19 +4,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CasinoGame.API", "CasinoGame.API\CasinoGame.API.csproj", "{F441EF2F-45CF-4534-86BC-2F9FFBFDAA51}"
-	ProjectSection(ProjectDependencies) = postProject
-		{4DA88CA7-A61E-4BC5-8D46-55C54884B598} = {4DA88CA7-A61E-4BC5-8D46-55C54884B598}
-	EndProjectSection
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasinoGame.Core", "CasinoGame.Core\CasinoGame.Core.csproj", "{4DA88CA7-A61E-4BC5-8D46-55C54884B598}"
-	ProjectSection(ProjectDependencies) = postProject
-		{9235D821-A790-41D1-9DD9-CF736D1027DD} = {9235D821-A790-41D1-9DD9-CF736D1027DD}
-		{D4992452-C19C-4B74-B7D4-17C070A886DC} = {D4992452-C19C-4B74-B7D4-17C070A886DC}
-	EndProjectSection
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasinoGame.DataAccess", "CasinoGame.DataAccess\CasinoGame.DataAccess.csproj", "{9235D821-A790-41D1-9DD9-CF736D1027DD}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasinoGame.Models", "CasinoGame.Models\CasinoGame.Models.csproj", "{D4992452-C19C-4B74-B7D4-17C070A886DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -28,18 +15,6 @@ Global
 		{F441EF2F-45CF-4534-86BC-2F9FFBFDAA51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F441EF2F-45CF-4534-86BC-2F9FFBFDAA51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F441EF2F-45CF-4534-86BC-2F9FFBFDAA51}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4DA88CA7-A61E-4BC5-8D46-55C54884B598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4DA88CA7-A61E-4BC5-8D46-55C54884B598}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4DA88CA7-A61E-4BC5-8D46-55C54884B598}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4DA88CA7-A61E-4BC5-8D46-55C54884B598}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9235D821-A790-41D1-9DD9-CF736D1027DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9235D821-A790-41D1-9DD9-CF736D1027DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9235D821-A790-41D1-9DD9-CF736D1027DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9235D821-A790-41D1-9DD9-CF736D1027DD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D4992452-C19C-4B74-B7D4-17C070A886DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D4992452-C19C-4B74-B7D4-17C070A886DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D4992452-C19C-4B74-B7D4-17C070A886DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D4992452-C19C-4B74-B7D4-17C070A886DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,4 +1,5 @@
-﻿using CasinoGame.DataAccess.Entities;
+﻿using CasinoGame.API.CasinoGame.DataAccess.Entities;
+using CasinoGame.DataAccess.Entities;
 using CasinoGame.Models;
 using System;
 using System.Collections.Generic;
